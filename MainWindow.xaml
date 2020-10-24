@@ -1,0 +1,19 @@
+﻿<Window x:Class="GraphShortestPath.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphShortestPath"
+        mc:Ignorable="d"
+        Title="Graphs Search and Shortest Path" ResizeMode="NoResize" WindowState="Maximized" d:DesignWidth="1195.46">
+    <Grid>
+        <Canvas x:Name="canvasDisplay" HorizontalAlignment="Center"  VerticalAlignment="Top"  Margin="0,100,0,0"/>
+        <Button x:Name="btnDisplayUnweightedMatrix" Content="Display Unweighted Matrix" HorizontalAlignment="Left" Margin="17,12,0,0" VerticalAlignment="Top" Width="153" Click="btnDisplayUnweightedMatrix_Click"/>
+        <Button x:Name="btnDFS" Content="DFS" HorizontalAlignment="Left" Margin="177,12,0,0" VerticalAlignment="Top" Width="48" Click="btnDFS_Click" />
+        <Button x:Name="btnBFS" Content="BFS" HorizontalAlignment="Left" Margin="231,12,0,0" VerticalAlignment="Top" Width="48" Click="btnBFS_Click_1"  />
+        <Button x:Name="btnRegenerateUnweightedMatrix" Content="Regenerate Unweighted Matrix" HorizontalAlignment="Left" Margin="287,12,0,0" VerticalAlignment="Top" Width="176" Click="btnRegenerateUnweightedMatrix_Click"/>
+        <Button x:Name="btnDisplayWeightedMatrix" Content="Display Weighted Matrix" HorizontalAlignment="Left" Margin="728,12,0,0" VerticalAlignment="Top" Width="153" Click="btnDisplayWeightedMatrix_Click" />
+        <Button x:Name="btnShortestPath" Content="Shortest Path" HorizontalAlignment="Left" Margin="888,12,0,0" VerticalAlignment="Top" Width="77" Click="btnShortestPath_Click_1" />
+        <Button x:Name="btnWeightedMatrix" Content="Regenerate Weighted Matrix" HorizontalAlignment="Left" Margin="970,12,0,0" VerticalAlignment="Top" Width="164" Click="btnWeightedMatrix_Click" />
+    </Grid>
+</Window>

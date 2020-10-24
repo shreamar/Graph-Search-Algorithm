@@ -1,0 +1,15 @@
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\bin\Debug\GraphShortestPath.exe.config
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\bin\Debug\GraphShortestPath.exe
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\bin\Debug\GraphShortestPath.pdb
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.csprojAssemblyReference.cache
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\MainWindow.g.cs
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\App.g.cs
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath_MarkupCompile.cache
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath_MarkupCompile.lref
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\MainWindow.baml
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.g.resources
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.Properties.Resources.resources
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.csproj.GenerateResource.cache
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.csproj.CoreCompileInputs.cache
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.exe
+H:\Idaho State University\11th Semester (Fall 2020)\CS 4412 (Advanced Algorithm)\Homeworks\HW5\GraphShortestPath\obj\Debug\GraphShortestPath.pdb
